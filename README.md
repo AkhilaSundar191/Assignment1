@@ -1,4 +1,4 @@
-ssignment 1: Data Exploration
+Assignment 1: Data Exploration
 
 1.Sum, Count, Average:
 the total price of all products in the dataset calulated using '=sum(firstrange:last Range)'fn
